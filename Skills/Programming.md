@@ -1,78 +1,78 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model h
-  - Modeling h
+  - Model: 👂 heard
+  - Modeling: 👂 heard
   - Subject domain
-  - Algorithm u
-  - Syntax u
-  - Semantics h
-  - Abstraction h
-  - Paradigm h
-  - Programm u
-  - Programming paradigm u
-  - Programming language u
-  - Contract h
-  - Module h
-  - Library h
-  - Package h
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 👂 heard
+  - Abstraction: 👂 heard
+  - Paradigm: 👂 heard
+  - Programm: 🖐️ used
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
+  - Contract: 👂 heard
+  - Module: 👂 heard
+  - Library: 👂 heard
+  - Package: 👂 heard
   - Component
-  - Framework h
-  - Platform h
-  - Source code u
-  - Object code  h
-  - Machine code h
-  - Microcode h
-  - Software engineering r
-  - Decomposition h
+  - Framework: 👂 heard
+  - Platform: 👂 heard
+  - Source code: 🖐️ used
+  - Object code: 👂 heard
+  - Machine code: 👂 heard
+  - Microcode: 👂 heard
+  - Software engineering: 🔬 researched
+  - Decomposition: 👂 heard
   - Control flow
   - Data flow
-  - Code reuse h
-  - Defensive programming h
-  - Don't repeat yourself (DRY) h
-  - KISS principle h
+  - Code reuse: 👂 heard
+  - Defensive programming: 👂 heard
+  - Don't repeat yourself (DRY): 👂 heard
+  - KISS principle: 👂 heard
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
-  - Scalar h
-  - Literal u
-  - Expression h
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 👂 heard
+  - Literal: 🖐️ used
+  - Expression: 👂 heard
   - Heap
-  - Function u
+  - Function: 🖐️ used
   - Procedure
-  - Method u
-  - Class h
+  - Method: 🖐️ used
+  - Class: 👂 heard
   - Prototype
   - Event
   - Type
   - Flag
   - Lexical scope
-  - Code block u
-  - Conditions h
-  - Loops u
-  - Assignment u
+  - Code block: 🖐️ used
+  - Conditions: 👂 heard
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions u
-  - Coding conventions u
-  - Camel case u
-  - Snake case u
-  - Kebab case h
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 👂 heard
   - Trailing commas
-  - Return early h
+  - Return early: 👂 heard
   - Fail-fast
 - Types
-  - Primitive types h
-  - Reference types h
-  - Type systems h
+  - Primitive types: 👂 heard
+  - Reference types: 👂 heard
+  - Type systems: 👂 heard
   - Strong typing
   - Weak typing
   - Duck typing
-  - Static typing h
+  - Static typing: 👂 heard
   - Dynamic typing
   - Nominal typing
   - Structural typing
@@ -82,18 +82,18 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument h
-  - Parameter h
+  - Argument: 👂 heard
+  - Parameter: 👂 heard
   - Pure function
-  - Lambda expression h
+  - Lambda expression: 👂 heard
   - Side effects
-  - Closure h
+  - Closure: 👂 heard
   - Partial application
   - Currying
-  - Higher order h
+  - Higher order: 👂 heard
   - Recursion
   - Tail call optimisation
-  - Callback h
+  - Callback: 👂 heard
   - Listener
   - Composition
   - Pipe
@@ -105,70 +105,70 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array h
-  - Structure h
-  - Record h
-  - Enum h
-  - Instance h
-  - Object h
-  - Collection h
-  - Set h
-  - Hash table h
-  - Linked list h
+  - Array: 👂 heard
+  - Structure: 👂 heard
+  - Record: 👂 heard
+  - Enum: 👂 heard
+  - Instance: 👂 heard
+  - Object: 👂 heard
+  - Collection: 👂 heard
+  - Set: 👂 heard
+  - Hash table: 👂 heard
+  - Linked list: 👂 heard
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue h
-  - Stack h
-  - Deque h
-  - Tree h
-  - Graph 
-  - Iterator h
+  - Queue: 👂 heard
+  - Stack: 👂 heard
+  - Deque: 👂 heard
+  - Tree: 👂 heard
+  - Graph
+  - Iterator: 👂 heard
   - Mutable state
   - Immutable state
-  - Serialization h
-  - String parsing h
-  - JSON h
+  - Serialization: 👂 heard
+  - String parsing: 👂 heard
+  - JSON: 👂 heard
   - JSON5
   - YAML
 - Networking
-  - DNS h
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4 h
-  - IPv6 h
+  - IPv4: 👂 heard
+  - IPv6: 👂 heard
   - NAT
-  - URL h
+  - URL: 👂 heard
   - URN
   - URI
 - Process and tools
-  - Compiler u
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter u
+  - Linter: 🖐️ used
   - Polyfill
-  - Interpreter h
+  - Interpreter: 👂 heard
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime h
-  - Virtual machine h 
+  - Runtime: 👂 heard
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger u
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring u
-  - Code review h
+  - Refactoring: 🖐️ used
+  - Code review: 👂 heard
   - Exception
   - Unittesting
-  - git u
-  - Github u
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
-  - GCC u
+  - GCC: 🖐️ used
   - LLVM
 - Antipatterns
   - Magic numbers
@@ -178,22 +178,22 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti h
+  - Spaghetti: 👂 heard
   - Silver bullet
-  - Not invented here h
-  - Dead code h
-  - Unreachable code h
-  - Duplicate code h
+  - Not invented here: 👂 heard
+  - Dead code: 👂 heard
+  - Unreachable code: 👂 heard
+  - Duplicate code: 👂 heard
   - Premature optimization
   - Micro-optimization
-  - Nested loops h
-  - Long method/function/procedure h
+  - Nested loops: 👂 heard
+  - Long method/function/procedure: 👂 heard
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case h
+  - Use switch/case: 👂 heard
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -203,37 +203,37 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8 h
+  - V8: 👂 heard
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers u
-  - Kernel h
-  - Ring h
-  - Virtual memory h
-  - File system h
-  - Linux u
-  - Unix h
-  - BSD h
-  - MacOS u
-  - Windows u
-  - Real-time OS h
-  - Embedded OS h
+  - Drivers: 🖐️ used
+  - Kernel: 👂 heard
+  - Ring: 👂 heard
+  - Virtual memory: 👂 heard
+  - File system: 👂 heard
+  - Linux: 🖐️ used
+  - Unix: 👂 heard
+  - BSD: 👂 heard
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
+  - Real-time OS: 👂 heard
+  - Embedded OS: 👂 heard
 - Standards
-  - ASCII h
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64 h
-  - ECMA h
+  - Base64: 👂 heard
+  - ECMA: 👂 heard
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8 h
+  - UTF-8: 👂 heard
   - W3C
   - ODMG
