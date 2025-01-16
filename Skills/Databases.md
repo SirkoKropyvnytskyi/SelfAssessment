@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -71,10 +71,10 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle
-  - MySQL
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server: 👂 heard
   - Redis
   - Rabbit
   - MongoDB
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
+  - Big data: 👂 heard
   - Data analysis
-  - AI tools
-  - Cloud databases
+  - AI tools: 👂 heard
+  - Cloud databases: 👂 heard
   - Data Visualization
