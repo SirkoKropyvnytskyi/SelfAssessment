@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types u
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -71,10 +71,10 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle
-  - MySQL
+  - Oracle h
+  - MySQL h
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server h
   - Redis
   - Rabbit
   - MongoDB
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
+  - Big data h
   - Data analysis
-  - AI tools
-  - Cloud databases
+  - AI tools h
+  - Cloud databases h
   - Data Visualization

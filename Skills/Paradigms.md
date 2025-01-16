@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Procedural programming h
+  - Imperative programming h
+  - Structured programming h
+  - Non-structured programming h
+  - Functional programming h
+  - Prototype-based programming h
+  - Object-oriented programming h
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming h
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -30,7 +30,7 @@
   - Constructor
   - Operator `new`
   - Static method
-  - Method
+  - Method h
   - Async method
   - Getters, Setters
   - Public fields
